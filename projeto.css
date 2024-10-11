@@ -1,0 +1,46 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+
+    background-color: rgb(224, 151, 54);
+    height: 10vh;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+
+
+#digital{
+    width: 4vw;
+}
+
+.dig{
+display: flex;
+justify-content:left;
+
+}
+
+#pt{
+ font-size: xx-large;
+
+}
+
+.imagens{
+
+width: 15vw;
+
+}
+
+.coisa{
+
+border: solid rgb(224, 151, 54) 4px;
+border-radius: 23px;
+padding: 20px;
+margin: 20px;
+display: flex;
+
+}
